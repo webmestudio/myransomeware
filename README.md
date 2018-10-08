@@ -4,7 +4,7 @@
 
 - Jalankan software pada virtual operating system yang berjalan pada VMWare atau virtualBox
 
-- Jangan merubah nama folder (VirusUI), mengedit nama file pada folder tersebut jika anda menjalankan pada BypassWinSetup.exe
+- Jangan merubah nama folder (VirusUI), mengedit nama file pada folder tersebut jika anda menjalankan pada BypassWinSetup.exe untuk mendapatkan akses UAC.
 
 [Alat yang digunakan]
 
