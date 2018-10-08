@@ -33,3 +33,10 @@ Windows 10 versi up
 windows 8
 
 windows 7
+
+[Screenshoot]
+
+![alt tag](https://github.com/webmestudio/myransomeware/blob/master/screenshoot/RS1.PNG)
+![alt tag](https://github.com/webmestudio/myransomeware/blob/master/screenshoot/RS2.PNG)
+![alt tag](https://github.com/webmestudio/myransomeware/blob/master/screenshoot/RS3.PNG)
+![alt tag](https://github.com/webmestudio/myransomeware/blob/master/screenshoot/RS4.PNG)
