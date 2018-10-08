@@ -40,3 +40,9 @@ windows 7
 ![alt tag](https://github.com/webmestudio/myransomeware/blob/master/screenshoot/RS2.PNG)
 ![alt tag](https://github.com/webmestudio/myransomeware/blob/master/screenshoot/RS3.PNG)
 ![alt tag](https://github.com/webmestudio/myransomeware/blob/master/screenshoot/RS4.PNG)
+
+[Tujuan]
+
+Ini untuk edukasi saja, jadi gunakan dengan bijak :D
+
+jika anda menginginkan versi developer software ini anda bisa hubungi saya.
