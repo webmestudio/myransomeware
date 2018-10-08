@@ -57,4 +57,6 @@
 
 - Ini untuk edukasi saja, jadi gunakan dengan bijak :D
 
-- jika anda menginginkan versi developer software ini anda bisa hubungi saya.
+- jika anda menginginkan versi developer software ini anda bisa hubungi saya. 
+
+- Kasih saya donasi untuk kopi dan rokok
