@@ -57,6 +57,8 @@
 
 - Ini untuk edukasi saja, jadi gunakan dengan bijak :D
 
-- jika anda menginginkan versi developer software ini anda bisa hubungi saya dan tidak gratis. 
+- Jika anda menginginkan versi developer software ini anda bisa hubungi saya dan tidak gratis. 
 
 - Kasih saya donasi untuk kopi dan rokok :D
+
+- [Remember] Saya bukan hacker ataupun cracker. 
