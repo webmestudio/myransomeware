@@ -62,5 +62,3 @@
 - Kasih saya donasi untuk kopi dan rokok :D
 
 - [Remember] Saya bukan hacker ataupun cracker. hanya saja saya suka mengulik sesuatu.
-
-- [MyBlog] https://webmestudio.blogspot.com
