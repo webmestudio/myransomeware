@@ -1,3 +1,14 @@
+<meta name="viewport" content="width = 320, initial-scale = 2.3, user-scalable = no">
+<meta name="viewport" content="width = device-width">
+<meta name="viewport" content="initial-scale = 1.0">
+<meta name="viewport" content="initial-scale = 2.3, user-scalable = no">
+<meta name="og:title" content="My Ransomeware"/>
+<meta name="og:type" content="article"/>
+<meta name="og:url" content="https://github.com/webmestudio/myransomeware"/>
+<meta name="og:image" content="https://github.com/webmestudio/myransomeware/blob/master/screenshoot/RS1.PNG"/>
+<meta name="og:site_name" content="Github Noname"/>
+<meta name="og:description" content="(ransomware) adalah jenis perangkat perusak yang dirancang untuk menghalangi akses kepada sistem komputer atau data hingga tebusan dibayar. Jenis yang sederhana bekerja dengan mengunci sistem dengan cara yang tidak sulit untuk ditangani oleh orang yang ahli, sedangkan jenis yang lebih canggih akan mengenkripsi berkas sehingga tidak dapat diakses. Serangan perangkat pemeras umumnya dilakukan melalui Trojan yang disamarkan sebagai berkas yang sahih."/>
+
 # My Ransomeware 2018
 
 [Catatan]
