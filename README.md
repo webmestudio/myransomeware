@@ -1,14 +1,3 @@
-<meta name="viewport" content="width = 320, initial-scale = 2.3, user-scalable = no">
-<meta name="viewport" content="width = device-width">
-<meta name="viewport" content="initial-scale = 1.0">
-<meta name="viewport" content="initial-scale = 2.3, user-scalable = no">
-<meta name="og:title" content="My Ransomeware"/>
-<meta name="og:type" content="article"/>
-<meta name="og:url" content="https://github.com/webmestudio/myransomeware"/>
-<meta name="og:image" content="https://github.com/webmestudio/myransomeware/blob/master/screenshoot/RS1.PNG"/>
-<meta name="og:site_name" content="Github Noname"/>
-<meta name="og:description" content="(ransomware) adalah jenis perangkat perusak yang dirancang untuk menghalangi akses kepada sistem komputer atau data hingga tebusan dibayar. Jenis yang sederhana bekerja dengan mengunci sistem dengan cara yang tidak sulit untuk ditangani oleh orang yang ahli, sedangkan jenis yang lebih canggih akan mengenkripsi berkas sehingga tidak dapat diakses. Serangan perangkat pemeras umumnya dilakukan melalui Trojan yang disamarkan sebagai berkas yang sahih."/>
-
 # My Ransomeware 2018
 
 [Catatan]
@@ -29,14 +18,14 @@
 
 [Cara Kerja Software]
 
-- Windows akan terkunci dan anda tidak bisa melakukan apa2 karna system inti di nonaktifkan cara satu2nya anda harus unlock dengan memasukan encrypt key ke dalam software untuk kambali ke seperti semula
+- Windows akan terkunci dan anda tidak bisa melakukan apa-apa karna system inti di nonaktifkan cara satu satunya anda harus unlock dengan memasukan encrypt key ke dalam software untuk kambali ke seperti semula
 
 - Selama komputer victim terhubung ke internet, maka komputer victim akan terus tersuntikan meterpreter dengan komputer penyerang secara realtime
 
 
 [Opendoor.exe]
 
-- jika anda sudah memiliki pengetahuan tentang pembuatan file backdoor, anda bisa merubah reverse untuk meterpreter dengan menimpah file Opendoor.exe dengan backdoor buatan anda.
+- jika anda sudah memiliki pengetahuan tentang pembuatan file backdoor, anda bisa merubah reverse untuk meterpreter dengan menimpah file Opendoor.exe dengan backdoor buatan anda dengan nama yang sama.
 
 
 [SSH]
@@ -67,9 +56,5 @@
 [Tujuan]
 
 - Ini untuk edukasi saja, jadi gunakan dengan bijak :D
-
-- Jika anda menginginkan versi developer software ini, anda bisa hubungi saya dan tidak gratis. 
-
-- Kasih saya donasi untuk kopi dan rokok :D
 
 - [Remember] Saya bukan hacker ataupun cracker. hanya saja saya suka mengulik sesuatu.
