@@ -55,6 +55,6 @@
 
 [Tujuan]
 
-- Ini untuk edukasi saja, jadi gunakan dengan bijak :D
+- Edisi iseng - iseng sambil belajar, kalau mau coba silahkan tinggal unduh
 
-- [Remember] Saya bukan hacker ataupun cracker. hanya saja saya suka mengulik sesuatu.
+- Saya bukan hacker ataupun cracker. saya suka mengulik sesuatu.
